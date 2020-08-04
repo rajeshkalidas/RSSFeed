@@ -31,7 +31,7 @@ const columns = [
   },
   {
     id: 'contentSnippet',
-    label: 'ContentSnippet',
+    label: 'Content Snippet',
     minWidth: 170,
     align: 'center'
   }
