@@ -23,5 +23,6 @@ Runs the app in the development mode.<br />
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-![Screen]
-
+![Screen](https://github.com/rajeshkalidas/RSSFeed/blob/master/public/landing_page1.PNG)
+![Screen](https://github.com/rajeshkalidas/RSSFeed/blob/master/public/model-dialogpage.PNG)
+![Screen](https://github.com/rajeshkalidas/RSSFeed/blob/master/public/endpage.PNG)
